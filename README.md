@@ -3,7 +3,7 @@
 
 ## 🌟 About Me
 
-  **Passionate about**: "Passionate about data analysis, visualization, and uncovering the hidden stories numbers try to tell."
+- **Passionate about**: "Passionate about data analysis, visualization, and uncovering the hidden stories numbers try to tell."
 - **Experienced with**: SQL, Pyhton, Power-Bi, Advance Excel, Machine Learning, NLP, Deep Learning.
 
 ##  Skills and Tools
